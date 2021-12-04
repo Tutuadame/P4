@@ -1,4 +1,6 @@
 {
   "testFiles": "**/*.{feature,features}",
-  "ignoreTestFiles": ["**/stepDefinitions/*","*.js", "*.md"]
+  "ignoreTestFiles": ["**/stepDefinitions/*","*.js", "*.md"],
+  "viewportWidth": 1200,
+  "viewportHeight": 800
 }
